@@ -1,2 +1,2 @@
 # webpack-vite-lab-
-Лабораторная работа по сборке проектов
+project assembly laboratory work
